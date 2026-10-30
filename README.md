@@ -1,5 +1,9 @@
 # omniroute-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/omniroute-v3849-or-ai-gateway-whose-prov?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [OmniRoute template](https://railway.com/deploy/omniroute-v3849-or-ai-gateway-whose-prov?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway-tuned [OmniRoute](https://github.com/diegosouzapw/OmniRoute) image: the gateway's
 providers, endpoints and API keys survive a redeploy, the dashboard is password-gated from
 the first boot, and the V8 heap is sized from the container instead of a baked-in 1 GB.
